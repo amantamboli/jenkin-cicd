@@ -30,7 +30,7 @@ This collaborative integration of Jenkins, Docker, SonarQube, Argo CD, and Kuber
 
 ## Project Structure
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://raw.githubusercontent.com/amantamboli/portfolio/master/assets/img/devpos/Jenkins.png)
 
 
 ## Author
