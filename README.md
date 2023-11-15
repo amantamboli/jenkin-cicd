@@ -1,6 +1,10 @@
 
 # Jenkins Pipeline for Python Flask Application with Argo CD and Kubernetes
 
+## Project Structure
+
+![App Screenshot](https://raw.githubusercontent.com/amantamboli/portfolio/master/assets/img/devpos/Jenkins.png)
+
 ## Introdcution
 A Monitoring App, developed using Flask and empowered by a streamlined CI/CD pipeline orchestrated with Jenkins, Docker, Argo CD, and Kubernetes. This monitoring application is designed to provide real-time insights into your system's performance, offering a seamless experience for tracking and managing key metrics.
 
@@ -28,9 +32,7 @@ CD process is managed by Argo CD, which automates the deployment of the Monitori
 This collaborative integration of Jenkins, Docker, SonarQube, Argo CD, and Kubernetes establishes a powerful and efficient workflow.
 
 
-## Project Structure
 
-![App Screenshot](https://raw.githubusercontent.com/amantamboli/portfolio/master/assets/img/devpos/Jenkins.png)
 
 
 ## Author
